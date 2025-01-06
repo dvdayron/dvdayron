@@ -9,6 +9,6 @@ FullStack Developer, AWS Cloud Developer, react, react-native, angular, nodejs
 *   🌍  I'm based in Panamá City, Panamá
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/dvdayron/)
 *   ✉️  You can contact me at [dvdayron@gmail.com](mailto:dvdayron@gmail.com)
-*   🚀  I'm currently working on [FDSU](http://www.firstdue.com/)
+#*   🚀  I'm currently working on [FDSU](http://www.firstdue.com/)
 *   🧠  I'm learning AWS, GraphQL, IA, Data Engineering ...
 *   🤝  I'm open to collaborating on Interesting projects
